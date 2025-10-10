@@ -158,20 +158,12 @@
 :::
 ::::
 
-## Can Assurances be created for Statistical Agencies?
+## Can Assurances be created?
 
 ::: {.white-col}
 
 ![Survey flow](images/xkcd_data_provenance-6.png)
 :::
-
-## Challenges for statistical agencies
-
-- Documenting full transparency is hard
-- Complex and legacy survey tools make the process harder
-- Presence of (legitimate!) manual edits is an issue
-- Production processes are long and complex
-- Much of the code base is not open source
 
 ## How to document the full process?
 

@@ -6,3 +6,5 @@ format:
     reference-location: document
     widescreen: true
     center: true
+    logo: logo.png
+    footer: ""
