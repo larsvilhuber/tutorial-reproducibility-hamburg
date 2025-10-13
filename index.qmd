@@ -103,7 +103,7 @@ or <`r WEBSITE_URL`>.
 *Block 1*
 
 - [Intro](slides/index.html) (15 min)
-- 🔒[Attempting to reproduce: an imperfect example]() (🏃‍♀️interactive; Stata needed) (30 min)
+- 🔒[Attempting to reproduce: an imperfect example](https://github.com/labordynamicsinstitute/very-imperfect-example) (🏃‍♀️interactive; Stata needed) (30 min)
 - Discussion of attempt (🏃‍♀️interactive) (15 min)
 - Ideal documentation: [Template README](https://larsvilhuber.github.io/readme-presentation/) (45 min)
 
