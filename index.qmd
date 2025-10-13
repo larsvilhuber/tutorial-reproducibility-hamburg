@@ -74,8 +74,7 @@ plot(code)
 
 ```
 
-
-(https://larsvilhuber.github.io/readme-presentation/)
+or <`r WEBSITE_URL`>.
 
 ## Results: Survey 1
 
