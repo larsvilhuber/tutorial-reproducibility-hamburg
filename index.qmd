@@ -122,13 +122,13 @@ or <`r WEBSITE_URL`>.
 - Parts of [Reproducibility for LLM and AI](https://larsvilhuber.github.io/reproducibility-for-llm/presentation/) (15 min)
 - [Why you should learn (and love) the command line](https://labordynamicsinstitute.github.io/reproducibility-curriculum/modules/02-useful-tools-command-line.html), plus Git and Markdown (30 min)
 - [Tutorial on Docker](https://larsvilhuber.github.io/self-checking-reproducibility/80-docker.html) (🏃‍♀️interactive) (45 min)
-- (Optional) [Use of APIs](https://github.com/labordynamicsinstitute/alfred_example)
+- (Optional) [Use of APIs](https://github.com/labordynamicsinstitute/alfred_example) ([alt](https://gitlab.com/larsvilhuber/alfred_example))
 
 *Block 4*
 
 - Reporting on reproducibility (🏃‍♀️interactive)
   - [AEA's template repository](https://github.com/AEADataEditor/replication-template)
-  - [ZBW Sharing folder](https://share.zbw.eu/s/7nSkE9oxAnzaKZW)
+  - [ZBW Sharing folder](https://share.zbw.eu/s/xN45HD3Jmy4nr6A)
 
 
 
