@@ -5,7 +5,7 @@
 
 Some additional guidance can be found on the website of the Social Science Data Editors (URLs subject to change):
 
--   <https://social-science-data-editors.github.io/guidance/DCAS_Restricted_data.html#us-census-bureau-and-fsrdc>
+-   <https://social-science-data-editors.github.io/guidance/Samples/DCAS_Restricted_data.html#us-census-bureau-and-fsrdc>
 -   <https://social-science-data-editors.github.io/guidance/Requested_information_hosting.html#self-generated-repositories>
 
 ### Examples of replication packages
@@ -23,5 +23,5 @@ Using containers:
 ### Extra info
 
 
-- This document's source: <https://github.com/larsvilhuber/tutorial-reproducibility-2025>
+- This document's source: <`r GITHUB_REPOSITORY`>.
 - Licensed under [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
